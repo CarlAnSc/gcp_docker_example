@@ -28,5 +28,5 @@ if __name__ == '__main__':
         f"{metrics.classification_report(y_test, predicted)}\n"
     )
 
-    print('Some code to activate trigger - hey')
+    print('Some code to activate trigger - v2')
 
